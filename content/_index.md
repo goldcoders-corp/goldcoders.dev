@@ -139,7 +139,7 @@ sections:
       color: purple
     cta:
       - text: Check it Out
-        url: https://thriftshop.site/
+        url: https://github.com/thriftshop-site
     title: Thriftshop App
     template: templates/cta/brand-panel.html
     type: cta_brand_panel

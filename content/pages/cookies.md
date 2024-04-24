@@ -33,10 +33,10 @@ The following definitions shall have the same meaning regardless of whether they
 
 For the purposes of this Cookies Policy:
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to **Pitlord INC.**
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to **Goldcoders Corp**
 - **You** means the individual accessing or using the Website, or a company, or any legal entity on behalf of which such individual is accessing or using the Website, as applicable.
 - **Cookies** means small files that are placed on Your computer, mobile device or any other device by a website, containing details of your browsing history on that website among its many uses.
-- **Website** refers to **Pitlords**, accessible from pitlords.com.
+- **Website** refers to **Goldcoders Corp.**, accessible from goldcoders.dev.
 ### The use of the Cookies
 
 ##### **Type of Cookies We Use**
@@ -79,4 +79,4 @@ You can learn more about cookies in the "What Are Cookies" article.
 ### Contact Us
 If you have any questions about this Cookies Policy, You can contact us:
 
-By email: support@pitlords.com
+By email: support@goldcoders.dev

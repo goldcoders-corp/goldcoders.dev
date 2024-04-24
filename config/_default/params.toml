@@ -1,9 +1,9 @@
 github_user = "goldcoders"
-favicon = "/images/logo.png"
 mainSections = ["blog", "products"]
-copyright = "Copyright © 2020, GOLDCODERS CORP™️., all rights reserved."
+copyright = "Copyright © 2024, GOLDCODERS™️., all rights reserved."
 github_banner = true
 github_repo = "https://github.com/thrift-shop-site/theme"
+favicon = "/images/transparent_logo.png"
 description = "The Most Affordable Ecommerce Site For Filipino Online Seller Startups"
 
 [gtm]
@@ -11,7 +11,7 @@ enable = false
 id = ""
 
 [logo]
-image = "/images/logo.png"
+image = "/images/transparent_logo.png"
 height = "14"
 
 [brand]
@@ -19,12 +19,6 @@ enable = true
 name = "Goldcoders"
 font = "steel"
 color = "brand"
-shade = ""
-
-[tag]
-name = "Dev"
-font = "steel"
-color = "white"
 shade = ""
 
 [cover_photo]
@@ -39,3 +33,9 @@ enable = false
 [placeholder]
 cover_photo = "https://cdn.pixabay.com/photo/2015/03/26/09/40/business-suit-690048_960_720.jpg"
 post = "https://via.placeholder.com/760x450"
+
+[tag]
+name = "Dev"
+font = "steel"
+color = "white"
+shade = ""

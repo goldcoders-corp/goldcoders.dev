@@ -1,5 +1,20 @@
-business_name: Pitlords
-owner: Pitlord INC
-business_line: Gambling
-business_address: Metro Manila , Philippines
-certificates: []
+business_name: Goldcoders
+owner: Goldcoders Corp.
+business_line: Consultancy Services and Software Development
+business_address: Olongapo City Zambales , Philippines
+certificates:
+  - type: file
+    name: BMBE Certificate of Authority
+    url: /images/crt-030000000-4325.pdf
+  - type: file
+    url: /images/business-permit-02012024.pdf
+    name: Business Permit
+  - type: file
+    name: Security and Exchange Commission - Certificate of Incorporation
+    url: /images/goldcoders-corp-sec-certificate.pdf
+  - type: file
+    name: "Platinum Philgeps "
+    url: /images/platinum_philgeps_certification-2024.pdf
+  - type: file
+    url: /images/certificate-of-registration.pdf
+    name: BIR Certificate of Registration
